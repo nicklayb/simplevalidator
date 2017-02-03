@@ -67,7 +67,6 @@
         "no-useless-call": ["error"],
         "no-useless-concat": ["error"],
         "no-useless-escape": ["error"],
-        "no-vars": ["error"],
         "no-void": ["error"],
         "no-whitespace-before-property": ["error"],
         "no-with": ["error"],
